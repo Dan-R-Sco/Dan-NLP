@@ -10,3 +10,12 @@ Datacamp notebook:
 
 Tweepy notebook
 example of creating df from tweets
+
+Chile_election notebook
+Sentiment analysis with mentioning Pinera as tag
+-requires installing spanish NK library as sentiment analysis didnt work
+
+UK notebook
+reviewing tweets mentioning #Cummings 
+Sentiment analysis
+reviewing metadata regarding tweets
