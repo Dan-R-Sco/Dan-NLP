@@ -1,0 +1,12 @@
+individualword notebook:
+ - simpliest form of searching twitter and looking for keyword
+
+Datacamp notebook:
+- accessing via twitter API
+-how many tweets mention a word or phrase
+-flattening tweets
+-loads tweets into df
+-counting keywords
+
+Tweepy notebook
+example of creating df from tweets
